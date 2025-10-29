@@ -84,8 +84,7 @@ Enjoy your World Clock Dashboard!
 
 📸 Preview
 
-(Add a screenshot or GIF of your dashboard here)
-Example placeholder:
+
 
 
 🧾 Example Timezones
@@ -118,4 +117,4 @@ Pritam Bardhan
 
 ---
 
-Would you like me to generate a **README version that includes both this project and your previous “Calendar & Calculator”** 
+
